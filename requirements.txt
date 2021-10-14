@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-arm64
 
-streamlit=0.88.0
-tensorflow=2.6.0
+streamlit==0.88.0
+tensorflow==2.6.0
 
 
